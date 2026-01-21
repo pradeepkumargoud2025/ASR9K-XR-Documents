@@ -342,12 +342,12 @@ So only \1 is valid.
 
 ## Note
 
-replace pattern 'S1-MME' with 'S1MME' dry-run
-replace pattern 'S1-MME' with 'S1MME'
+* replace pattern 'S1-MME' with 'S1MME' dry-run
+* replace pattern 'S1-MME' with 'S1MME'
 
 ### Author
 
 **Pradeep**
-Network Engineer | Data Center & IOS XR Specialist
+Network Engineer | Data Center & IOS XR
 
 ---
